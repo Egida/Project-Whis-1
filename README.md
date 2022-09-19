@@ -31,6 +31,7 @@ I develop malware as a hobby, **I do not use this in the wild**, I only **test o
 *   Dynamic Ever-Changing URI
 *   Lets Encrypt SSL System Integrated
 *   TOR Hidden Service Support
+*   More Recovieries
 *   In Browser Client Builder
 *   Client Management
     *   Detailed Client Database
